@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h3{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0px 0px 50px 0;
+}
+
+h1 {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.animal{
+    float: left;
+    position: relative;
+    left: 100px;
+     text-align: center;
+}
+.small{
+    float: left;
+    position: relative;
+   left: 220px;
+    top: 30px;
+     text-align: center;
+}
+
+.app{
+    float: right;
+    position: relative;
+    top: 80px;
+    right: 120px;
+    text-align: center;
+}
+
